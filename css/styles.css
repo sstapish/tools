@@ -1,5 +1,7 @@
 /* Your Website Styles */
-
+body {
+	background: cornflowerblue;
+}
 
 /* Show Grid */
 .showgrid {
